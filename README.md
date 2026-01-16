@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Bianca N Rodriguez
+*I am a student at the University of Texas at Austin currently studying Behavioral and Social Data Science*
+
+*I love learning more about people and science. I'm intereseted in equipping myself with tools and skills that will enable me to contribute to a more equitable society. I want to learn more about how people interact with the world in order to better understand our place within it.*
